@@ -141,6 +141,6 @@ Select *
 From dbo.NashvilleHousing
 
 
-ALTER TABLE PortfolioProject.dbo.NashvilleHousing
+ALTER TABLE dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
