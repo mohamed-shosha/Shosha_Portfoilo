@@ -1,0 +1,27 @@
+Airbnb Market Analysis Dashboard (Tableau Public)
+
+This repository provides access to a Tableau Public dashboard that performs an in-depth analysis of Airbnb listing data. The project aims to uncover insights into pricing trends, property distribution, popular neighbourhoods, and host performance within the Airbnb market.
+
+Access the Live Dashboard:
+You can interact with the live dashboard here: "https://public.tableau.com/app/profile/mohamed.shosha/viz/AirBnbfullproject_17465172053400/Dashboard1"
+
+Key Features:
+
+Geospatial Analysis: Interactive maps showcasing the density and distribution of Airbnb listings.
+Pricing Insights: Visualisations exploring average prices by neighbourhood, room type, and occupancy.
+Host Performance: Analysis of host ratings and review counts.
+Property Characteristics: Breakdown of listings by property type, number of bedrooms, and amenities.
+Interactive Filters: Allows users to dynamically filter data by location, price range, number of reviews, and more.
+Clear and Actionable Visuals: Designed to help understand market dynamics and identify potential opportunities.
+Technologies Used:
+
+Tableau Desktop
+Tableau Public
+Project Goals:
+
+To visualise complex Airbnb data in an accessible format.
+To identify trends and patterns in pricing and listing characteristics.
+To provide insights for potential renters, hosts, and market analysts.
+
+
+Tableau project: https://public.tableau.com/views/AirBnbfullproject_17465172053400/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
